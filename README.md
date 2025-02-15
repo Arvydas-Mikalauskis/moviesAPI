@@ -4,6 +4,9 @@ A React-based movie search application that allows users to explore movies using
 
 ![App Screenshot](public/hero.png)
 
+## Live Demo
+🎬 **[Check out the live demo here](https://moviesearch123412.netlify.app/)**
+
 ## Features
 
 - 🔍 Search through thousands of movies from the TMDB database
